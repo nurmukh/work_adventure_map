@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":100,
  "infinite":false,
  "layers":[
@@ -656,13 +649,13 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/tileset\/fantasy_bottom.png",
+         "image":"tileset\/fantasy_bottom.png",
          "imageheight":416,
          "imagewidth":512,
          "margin":0,
@@ -675,7 +668,7 @@
         {
          "columns":48,
          "firstgid":209,
-         "image":"..\/tileset\/atlas_32x.png",
+         "image":"tileset\/atlas_32x.png",
          "imageheight":512,
          "imagewidth":1536,
          "margin":0,
@@ -815,7 +808,7 @@
         {
          "columns":32,
          "firstgid":977,
-         "image":"..\/tileset\/Atlas2_obj_misk_atlas.png",
+         "image":"tileset\/Atlas2_obj_misk_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -828,7 +821,7 @@
         {
          "columns":8,
          "firstgid":2001,
-         "image":"..\/tileset\/floortileset.png",
+         "image":"tileset\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -841,7 +834,7 @@
         {
          "columns":16,
          "firstgid":2065,
-         "image":"..\/tileset\/house_inside_1.png",
+         "image":"tileset\/house_inside_1.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -854,7 +847,7 @@
         {
          "columns":16,
          "firstgid":2289,
-         "image":"..\/tileset\/OL_Innenraum_HGSS_Newtiteuf.png",
+         "image":"tileset\/OL_Innenraum_HGSS_Newtiteuf.png",
          "imageheight":1002,
          "imagewidth":533,
          "margin":0,
@@ -866,6 +859,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":100
 }
