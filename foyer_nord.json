@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/Relax_nord"
+                 "value":".\/Relax_nord.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/dungeon1_nord"
+                 "value":".\/dungeon1_nord.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/cocktailparty_foyer#entrypoint_foyer_nord"
+                 "value":".\/cocktailparty_foyer#entrypoint_foyer_nord.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -66,7 +66,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/Garden_nord"
+                 "value":".\/Garden_nord.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/Bar_nord"
+                 "value":".\/Bar_nord.json"
                 }],
          "type":"tilelayer",
          "visible":true,
