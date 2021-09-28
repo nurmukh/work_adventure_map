@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Relax_nord.json"
+                 "value":"\/Relax_nord.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/dungeon1_nord.json"
+                 "value":"\/dungeon1_nord.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/cocktailparty_foyer#entrypoint_foyer_nord.json"
+                 "value":"\/cocktailparty_foyer#entrypoint_foyer_nord.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -66,7 +66,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Garden_nord.json"
+                 "value":"\/Garden_nord.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/Bar_nord.json"
+                 "value":"\/Bar_nord.json"
                 }],
          "type":"tilelayer",
          "visible":true,
