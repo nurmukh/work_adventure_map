@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/puai\/dungeon_nord"
+                 "value":"\/@\/cap_gemini\/puai\/dungeon1_nord"
                 }],
          "type":"tilelayer",
          "visible":true,
