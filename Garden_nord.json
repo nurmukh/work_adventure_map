@@ -24,7 +24,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/sounds\/BeeAudio.mp3"
+                 "value":".\/sounds\/BeeAudio.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -47,7 +47,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/sounds\/BirdAudio.mp3"
+                 "value":".\/sounds\/BirdAudio.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -70,7 +70,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/sounds\/WaterAudio.mp3"
+                 "value":".\/sounds\/WaterAudio.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
