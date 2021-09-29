@@ -481,7 +481,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/foyer_nord#entrypoint_bar_nord"
+                 "value":"\/@\/cap_gemini\/puai\/foyer_nord#entrypoint_bar_nord"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -569,7 +569,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"..\/tileset\/32x32Sci-Fitileset_tileset.png",
+         "image":"tileset\/32x32Sci-Fitileset_tileset.png",
          "imageheight":512,
          "imagewidth":1024,
          "margin":0,
@@ -592,7 +592,7 @@
         {
          "columns":16,
          "firstgid":513,
-         "image":"..\/tileset\/house_inside_1.png",
+         "image":"tileset\/house_inside_1.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -624,7 +624,7 @@
         {
          "columns":16,
          "firstgid":737,
-         "image":"..\/tileset\/tilesets_deviant_milkian_1.png",
+         "image":"tileset\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -637,7 +637,7 @@
         {
          "columns":4,
          "firstgid":993,
-         "image":"..\/tileset\/wa-matekiste_matekiste.png",
+         "image":"tileset\/wa-matekiste_matekiste.png",
          "imageheight":96,
          "imagewidth":128,
          "margin":0,
@@ -651,7 +651,7 @@
         {
          "columns":32,
          "firstgid":1005,
-         "image":"..\/tileset\/Atlas2_obj_misk_atlas.png",
+         "image":"tileset\/Atlas2_obj_misk_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -783,7 +783,7 @@
         {
          "columns":48,
          "firstgid":2029,
-         "image":"..\/tileset\/atlas_32x.png",
+         "image":"tileset\/atlas_32x.png",
          "imageheight":512,
          "imagewidth":1536,
          "margin":0,
@@ -796,7 +796,7 @@
         {
          "columns":21,
          "firstgid":2797,
-         "image":"..\/tileset\/FOOD.png",
+         "image":"tileset\/FOOD.png",
          "imageheight":807,
          "imagewidth":702,
          "margin":0,
@@ -810,7 +810,7 @@
         {
          "columns":17,
          "firstgid":3322,
-         "image":"..\/tileset\/piano.png",
+         "image":"tileset\/piano.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,

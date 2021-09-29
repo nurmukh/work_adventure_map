@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/foyer_nord#entrypoint_relax_nord"
+                 "value":"\/@\/cap_gemini\/puai\/foyer_nord#entrypoint_relax_nord"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -114,7 +114,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/tileset\/walls2.png",
+         "image":"tileset\/walls2.png",
          "imageheight":832,
          "imagewidth":256,
          "margin":0,
@@ -127,7 +127,7 @@
         {
          "columns":10,
          "firstgid":209,
-         "image":"..\/tileset\/fantasy_trees.gif",
+         "image":"tileset\/fantasy_trees.gif",
          "imageheight":800,
          "imagewidth":336,
          "margin":0,
@@ -2148,7 +2148,7 @@
         {
          "columns":16,
          "firstgid":459,
-         "image":"..\/tileset\/house_inside_1.png",
+         "image":"tileset\/house_inside_1.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -4160,7 +4160,7 @@
         {
          "columns":32,
          "firstgid":683,
-         "image":"..\/tileset\/Atlas2_obj_misk_atlas.png",
+         "image":"tileset\/Atlas2_obj_misk_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -13291,7 +13291,7 @@
         {
          "columns":32,
          "firstgid":1707,
-         "image":"..\/tileset\/Atlas2_build_atlas2.png",
+         "image":"tileset\/Atlas2_build_atlas2.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,

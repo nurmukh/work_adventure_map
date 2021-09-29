@@ -88,7 +88,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cap_gemini\/cp\/foyer_nord#entrypoint_garden_nord"
+                 "value":"\/@\/cap_gemini\/puai\/foyer_nord#entrypoint_garden_nord"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -361,7 +361,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/tileset\/floortileset.png",
+         "image":"tileset\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -374,7 +374,7 @@
         {
          "columns":6,
          "firstgid":65,
-         "image":"..\/tileset\/bushfence3.png",
+         "image":"tileset\/bushfence3.png",
          "imageheight":128,
          "imagewidth":192,
          "margin":0,
@@ -478,7 +478,7 @@
         {
          "columns":16,
          "firstgid":89,
-         "image":"..\/tileset\/Flowers.png",
+         "image":"tileset\/Flowers.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -491,7 +491,7 @@
         {
          "columns":13,
          "firstgid":345,
-         "image":"..\/tileset\/Flowers3.png",
+         "image":"tileset\/Flowers3.png",
          "imageheight":288,
          "imagewidth":416,
          "margin":0,
@@ -504,7 +504,7 @@
         {
          "columns":16,
          "firstgid":462,
-         "image":"..\/tileset\/outside_b_shua_by_shuatinwe_dax6nc8.png",
+         "image":"tileset\/outside_b_shua_by_shuatinwe_dax6nc8.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1265,7 +1265,7 @@
         {
          "columns":7,
          "firstgid":718,
-         "image":"..\/tileset\/Lakes.png",
+         "image":"tileset\/Lakes.png",
          "imageheight":250,
          "imagewidth":250,
          "margin":0,
@@ -1278,7 +1278,7 @@
         {
          "columns":12,
          "firstgid":767,
-         "image":"..\/tileset\/Waters.png",
+         "image":"tileset\/Waters.png",
          "imageheight":384,
          "imagewidth":384,
          "margin":0,
@@ -1291,7 +1291,7 @@
         {
          "columns":9,
          "firstgid":911,
-         "image":"..\/tileset\/Benches.png",
+         "image":"tileset\/Benches.png",
          "imageheight":288,
          "imagewidth":288,
          "margin":0,
@@ -1548,7 +1548,7 @@
         {
          "columns":6,
          "firstgid":992,
-         "image":"..\/tileset\/Benches2.png",
+         "image":"tileset\/Benches2.png",
          "imageheight":192,
          "imagewidth":192,
          "margin":0,
@@ -1670,7 +1670,7 @@
         {
          "columns":18,
          "firstgid":1028,
-         "image":"..\/tileset\/Ducks.png",
+         "image":"tileset\/Ducks.png",
          "imageheight":384,
          "imagewidth":576,
          "margin":0,
@@ -1683,7 +1683,7 @@
         {
          "columns":18,
          "firstgid":1244,
-         "image":"..\/tileset\/Wild animals.png",
+         "image":"tileset\/Wild animals.png",
          "imageheight":384,
          "imagewidth":576,
          "margin":0,
@@ -1696,7 +1696,7 @@
         {
          "columns":12,
          "firstgid":1460,
-         "image":"..\/tileset\/FlyingBirds.png",
+         "image":"tileset\/FlyingBirds.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
