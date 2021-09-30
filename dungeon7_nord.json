@@ -177,7 +177,7 @@
         {
          "name":"exitUrl",
          "type":"string",
-         "value":"\/@\/cap_gemini\/cp\/foyer_nord#entrypoint_dungeon_nord"
+         "value":"\/@\/cap_gemini\/puai\/foyer_nord#entrypoint_dungeon_nord"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
